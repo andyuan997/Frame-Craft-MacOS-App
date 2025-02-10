@@ -2,7 +2,7 @@
 
 **這是一個在MacOS上製作Mockup圖App的開源專案**
 
-**網頁：https://andy-pro.com/frame-craft/**
+**網頁：https://slothdevelop.com/frame-craft/**
 
 **App Store：https://apps.apple.com/us/app/frame-craft/id6504985118?mt=12**
 
